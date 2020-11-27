@@ -1,1 +1,0 @@
-# sknmejd.github.io
