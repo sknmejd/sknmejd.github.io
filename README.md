@@ -1,2 +1,1 @@
 # sknmejd.github.io
-Testi
