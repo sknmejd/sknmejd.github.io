@@ -11,7 +11,7 @@ color: green;
 body {background-color: black;
 color: white;
 }
-.cats {
+div.cats {
 	border: dotted 2px;
 	width: 100px;
 	height: 100px;
