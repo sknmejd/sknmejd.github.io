@@ -1,0 +1,34 @@
+
+h1 { 
+font-size:20px;
+}
+
+p {
+font-size: 14px;
+color: green;
+}
+#rounded{
+	border: 2px solid green;
+	border-radius: 30px 15px;
+	background: #ffffff;
+	padding: 20px;
+}
+
+body {
+	background-color: black;
+	color: white;
+	font-family: Arial, Helvetica, Comics, sans-serif; 
+	text-align: left;
+}
+
+.history {
+	border: solid white 5px;
+	text-align: center;
+}
+
+.bottomleft {
+position : absolute;
+bottom: 10px;
+left: 14px;
+font-size: 12px;
+}
