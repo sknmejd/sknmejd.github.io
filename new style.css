@@ -1,11 +1,11 @@
 
 h1 { 
-font-size:20px;
+font-size: 40px;
 }
 
 p {
 font-size: 14px;
-color: green;
+color: black;
 }
 
 #rounded{
@@ -26,11 +26,12 @@ body {
 .history {
 	border: solid white 5px;
 	text-align: center;
+	padding: 80px;
 }
 
 .bottomleft {
 position: fixed;
 bottom: 0;
-left: 10px;
+left: 14px;
 font-size: 12px;
 }
