@@ -28,8 +28,8 @@ body {
 	text-align: center;
 }
 
-.bottomright {
-position : fixed;
+.bottomleft {
+position: fixed;
 bottom: 0;
 left: 10px;
 font-size: 12px;
