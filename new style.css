@@ -31,6 +31,6 @@ body {
 .bottomright {
 position : fixed;
 bottom: 0;
-left: 0;
+left: 10px;
 font-size: 12px;
 }
