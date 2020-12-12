@@ -28,8 +28,8 @@ body {
 	text-align: center;
 }
 
-.bottomleft {
+.bottomright {
 position : absolute;
-left: 14px;
+right: 14px;
 font-size: 12px;
 }
