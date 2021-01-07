@@ -49,5 +49,7 @@
 	background-color: #FFE4C4;
 	padding: 15px;
 	color: black;
+	position: absolute;
+	bottom: 0;
 }
 
