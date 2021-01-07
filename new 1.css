@@ -60,10 +60,10 @@ font-size: 12px;
 
 .footer {
 	background-color: #FFE4C4;
-	padding: center;
+	width: auto;
+	padding: center 10px;
 	color: black;
 	font-size: 11px;
-	position: fixed;
 	bottom: 0;
 	
 }
