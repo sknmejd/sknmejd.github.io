@@ -8,7 +8,7 @@ font-size: 12px;
 color: black;
 }
 
-body {
+.body {
 	font-family: Arial, Helvetica, Comics, sans-serif; 
 	font-size: 12px;
 	width: 90%;
@@ -40,6 +40,7 @@ font-size: 12px;
 	font-size: 14px;
 	color: white;
 }
+
 #section {
 	background-color: #FFE4C4;
 	float: left;
@@ -49,12 +50,27 @@ font-size: 12px;
 	color: black;
 }
 
-.article {
-	backgroud-color: #DEB887;
-	float: left;
+.all-browser {
+	margin: 0;
+	padding: 10 px;
+	background-color: #F5F5DC;
+}
+.all-browser > h2, .browser {
+	margin: 10px;
+	padding: 5px;
 	width: 70%;
-	height: 300px
 	color: black;
+}
+
+.browser {
+	width: 70%;
+	backgroud-color: #DEB887;
+	color: black;
+}
+
+.browser > h2,p {
+	margin : 4px;
+	font-size: 90%;
 }
 
 .footer {
