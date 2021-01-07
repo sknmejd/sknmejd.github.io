@@ -11,6 +11,9 @@ color: black;
 body {
 	font-family: Arial, Helvetica, Comics, sans-serif; 
 	font-size: 12px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .header {
@@ -56,7 +59,11 @@ font-size: 12px;
 }
 
 .footer {
-background-color: #FFE4C4;
-color: black;
-font-size: 11px;
+	background-color: #FFE4C4;
+	padding: center;
+	color: black;
+	font-size: 11px;
+	position: fixed;
+	bottom: 0;
+	
 }
