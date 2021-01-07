@@ -43,7 +43,7 @@ font-size: 12px;
 .section {
 	background-color: #FFE4C4;
 	float: left;
-	width: 70%;
+	width: auto;
 	height: auto;
 	font-size: 12px;
 	color: black;
@@ -52,7 +52,6 @@ font-size: 12px;
 .secction {
 	margin: 0;
 	float: left;
-	width: 70%;
 	padding: 10px;
 	background-color: #F5F5DC;
 }
