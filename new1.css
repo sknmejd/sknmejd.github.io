@@ -43,7 +43,7 @@ font-size: 12px;
 .section {
 	background-color: #FFE4C4;
 	float: left;
-	width: auto;
+	width: 70%;
 	height: auto;
 	font-size: 12px;
 	color: black;
@@ -58,12 +58,10 @@ font-size: 12px;
 .section > h2, .browser {
 	margin: 10px;
 	padding: 5px;
-	width: 70%;
 	color: black;
 }
 
 .browser {
-	width: 70%;
 	color: black;
 }
 
