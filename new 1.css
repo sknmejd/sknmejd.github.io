@@ -32,7 +32,10 @@ font-size: 12px;
 
 .section {
 	background-color: #FFE4C4;
-	text-align: left;
+	float: left;
+	padding: 40px;
+	width: 70%;
+	height: 300px;
 	font-size: 12px;
 	color: black;
 }
