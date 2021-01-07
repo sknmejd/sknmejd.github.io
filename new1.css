@@ -52,7 +52,7 @@ font-size: 12px;
 
 .all-browser {
 	margin: 0;
-	padding: 10 px;
+	padding: 10px;
 	background-color: #F5F5DC;
 }
 .all-browser > h2, .browser {
@@ -64,7 +64,6 @@ font-size: 12px;
 
 .browser {
 	width: 70%;
-	backgroud-color: #DEB887;
 	color: black;
 }
 
