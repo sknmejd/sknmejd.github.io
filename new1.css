@@ -52,6 +52,8 @@ font-size: 12px;
 
 .all-browser {
 	margin: 0;
+	float: left;
+	width: 70%;
 	padding: 10px;
 	background-color: #F5F5DC;
 }
@@ -72,11 +74,9 @@ font-size: 12px;
 	font-size: 90%;
 }
 
-.footer {
+#footer {
 	text-align: center;
 	background-color: #FFE4C4;
-	padding: 3px;
+	padding: 10px;
 	color: black;
-	font-size: 11px;
-	bottom: 0;
 }
